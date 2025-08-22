@@ -1,7 +1,7 @@
 # ATM Project
 
 ## Overview
-This is a simple ATM simulation project developed using [.NET/C#/Java/etc.].  
+This is a simple ATM simulation project developed using java 
 It demonstrates core programming concepts such as OOP, user authentication, transaction handling, and database interaction.
 
 ## Features
